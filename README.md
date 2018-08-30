@@ -2,7 +2,7 @@
 
  * [MarkSearch](#marksearch)
  * [Youtube Open In MPV](#youtube-open-in-mpv)
- * [Installation](#installation)
+
  
  
 MarkSearch
